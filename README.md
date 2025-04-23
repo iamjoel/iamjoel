@@ -6,14 +6,15 @@ I'm Joel, a Frontend developer.
 [![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjoel)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
-<div style="flex">
+<div>
   <a href="https://portfolio-of-joel.vercel.app/project/portrait-photography" target="_blank">
-    <img width="300" alt="image" src="https://github.com/user-attachments/assets/05ff3b3d-27ea-4b67-98d3-b263aa5cc1cd" />
+    <img width="250" alt="image" src="https://github.com/user-attachments/assets/114f80ce-4c7c-4989-8fa4-1e4bffe1dfc6" />
   </a>
   <a href="https://portfolio-of-joel.vercel.app/project/quote-card-generator" target="_blank">
-    <img width="300" alt="image" src="https://github.com/user-attachments/assets/59723526-b2a3-4db7-84d7-009bd2307ee1" />
+    <img width="250" alt="image" src="https://github.com/user-attachments/assets/de4f5beb-b03b-4a2d-94cb-ee38ef0d497e" />
+
   </a>
   <a href="https://portfolio-of-joel.vercel.app/project/tile-up" target="_blank">
-    <img width="300" alt="image" src="https://github.com/user-attachments/assets/b5ce7b50-1ba5-415b-b1d6-30c900ecbf71" />
+    <img width="250" alt="image" src="https://github.com/user-attachments/assets/c2323c91-1ff7-40e8-b8f4-92a12d4cf1bd" />
   </a>
 </div>
